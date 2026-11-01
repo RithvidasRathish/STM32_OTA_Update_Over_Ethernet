@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Drivers/Ethernet_W550/OTA_TCP_Client.c:94:13:ota_write	24	static
+../Drivers/Ethernet_W550/OTA_TCP_Client.c:101:6:ota_erase_flash	8	static
+../Drivers/Ethernet_W550/OTA_TCP_Client.c:109:8:OTA_Client_Init	48	static
+../Drivers/Ethernet_W550/OTA_TCP_Client.c:178:6:OTA_Client_Task	40	static
+../Drivers/Ethernet_W550/OTA_TCP_Client.c:264:6:ota_process_rx	32	static
+../Drivers/Ethernet_W550/OTA_TCP_Client.c:338:6:ota_start	16	static
+../Drivers/Ethernet_W550/OTA_TCP_Client.c:360:13:ota_finalize	8	static

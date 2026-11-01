@@ -1,0 +1,6 @@
+../Drivers/Ethernet_W550/wizchip_port.c:45:5:_write	3
+../Drivers/Ethernet_W550/wizchip_port.c:53:6:W5500_Select	1
+../Drivers/Ethernet_W550/wizchip_port.c:54:6:W5500_Unselect	1
+../Drivers/Ethernet_W550/wizchip_port.c:56:9:W5500_ReadByte	1
+../Drivers/Ethernet_W550/wizchip_port.c:64:6:W5500_WriteByte	1
+../Drivers/Ethernet_W550/wizchip_port.c:89:5:W5500_Init	7
